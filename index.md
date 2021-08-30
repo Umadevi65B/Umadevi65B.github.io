@@ -21,8 +21,7 @@ Email: ubetageri5637@sdsu.edu.
 
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Umadevi65B/Umadevi65B.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   [repository settings](https://github.com/Umadevi65B/Umadevi65B.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
