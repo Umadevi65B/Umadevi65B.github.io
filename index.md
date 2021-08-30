@@ -2,7 +2,8 @@
 
 This is my first Github Website. Very Excited! 
 
-**About Me:**  My is Umadevi Betageri and I am originally from India. I have done my under graduation in Electrical and Electronics. I worked as Sytsen Design Engineer for 3 years at Om Associates. 
+**About Me:**   
+My is Umadevi Betageri and I am originally from India. I have done my under graduation in Electrical and Electronics. I worked as Sytsen Design Engineer for 3 years at Om Associates. 
 
 **My Hobbies:**   
   i. Reading Books.    
