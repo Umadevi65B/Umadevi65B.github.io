@@ -4,10 +4,14 @@ This is my first Github Website. Very Excited!
 
 **About Me:**  My is Umadevi Betageri and I am originally from India. I have done my under graduation in Electrical and Electronics. I worked as Sytsen Design Engineer for 3 years at Om Associates. 
 
-**My Hobbies:**   i. Reading Books.  ii. Singing.  iii. Playing Games.  iv. Art Work
+**My Hobbies:**   
+  i. Reading Books.    
+  ii. Singing.   
+  iii. Playing Games.    
+  iv. Art Work
 
-**Contact Me**. 
-Email: ubetageri5637@sdsu.edu
+**Contact Me**.   
+Email: ubetageri5637@sdsu.edu.   
 [Linked In](https://www.linkedin.com/in/umadevi-betageri-74bb64b0)
 
 
