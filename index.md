@@ -2,33 +2,14 @@
 
 This is my first Github Website. Very Excited! 
 
-You can use the [editor on GitHub](https://github.com/Umadevi65B/Umadevi65B.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**About Me:**  My is Umadevi Betageri and I am originally from India. I have done my under graduation in Electrical and Electronics. I worked as Sytsen Design Engineer for 3 years at Om Associates. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**My Hobbies:**   i. Reading Books.  ii. Singing.  iii. Playing Games.  iv. Art Work
 
-### Markdown
+**Contact Me**. 
+Email: ubetageri5637@sdsu.edu
+[Linked In](https://www.linkedin.com/in/umadevi-betageri-74bb64b0)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
