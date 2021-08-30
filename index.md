@@ -5,9 +5,8 @@ This is my first Github Website. Very Excited!
 **About Me:**   
 My is Umadevi Betageri and I am originally from India. I am doinig Masters in Big Data Analytics at San Diego State University. I have done my under graduation in Electrical and Electronics. I worked as Sytsen Design Engineer for 3 years at Om Associates.   
 
-**Interests**. 
+**Interests**.   
 i. Programming.  
-
 ii. Learning Big Data Tools.  
 
 **My Hobbies:**   
