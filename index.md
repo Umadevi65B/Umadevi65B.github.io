@@ -5,7 +5,8 @@ This is my first Github Website. Very Excited!
 **About Me:**   
 My is Umadevi Betageri and I am originally from India. I am doinig Masters in Big Data Analytics at San Diego State University. I have done my under graduation in Electrical and Electronics. I worked as Sytsen Design Engineer for 3 years at Om Associates.   
 
-**Introduction to Global Power Plant Database.**. 
+**Introduction to Global Power Plant Database.**
+
 A comprehensive, global, open-source database of power plants.  
 
 URL: [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase)  
